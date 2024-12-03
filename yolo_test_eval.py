@@ -1,7 +1,7 @@
 import os
 
 # Path to the directory containing YOLO output files
-yolo_output_dir = 'res'
+yolo_output_dir = 'res_rt'
 
 # Path to the ground truth file
 ground_truth_file_path = 'vid.txt'

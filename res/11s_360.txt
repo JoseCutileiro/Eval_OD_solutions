@@ -1,6 +1,6 @@
 1 person
 5 car
-1 car, 3 person
+1 car, 2 person
 5 car
 1 person
 4 car
@@ -30,9 +30,9 @@
 4 car
 1 person
 4 car
-1 car, 3 person
+1 car, 2 person
 8 person
-1 car, 3 person
+1 car, 2 person
 8 person
 1 person
 5 car
@@ -48,7 +48,7 @@
 1 person
 4 car
 5 car
-1 car, 3 person
+1 car, 2 person
 1 person
 8 person
 4 car
@@ -57,7 +57,7 @@
 4 car
 4 car
 4 car
-1 car, 4 person
+1 car, 2 person
 8 person
 8 person
 8 person
@@ -72,13 +72,13 @@
 1 person
 1 person
 4 car
-1 car, 3 person
+1 car, 2 person
 5 car
 4 car
 8 person
 1 person
 1 person
-1 car, 3 person
+1 car, 2 person
 1 person
 5 car
 8 person
@@ -114,10 +114,10 @@
 1 person
 4 car
 1 person
-1 car, 4 person
+1 car, 3 person
 4 car
-1 car, 4 person
-1 car, 4 person
+1 car, 3 person
+1 car, 3 person
 8 person
 1 person
 4 car
@@ -163,7 +163,7 @@
 5 car
 1 car, 3 person
 5 car
-1 car, 3 person
+1 car, 1 person
 5 car
 4 car
 1 person
@@ -176,34 +176,34 @@
 1 car, 3 person
 5 car
 4 car
-1 car, 3 person
+1 car, 2 person
 1 person
 4 car
-1 car, 3 person
+1 car, 2 person
 8 person
 5 car
 5 car
-1 car, 4 person
-1 car, 4 person
+1 car, 2 person
+1 car, 2 person
 8 person
 5 car
 8 person
 4 car
 5 car
-1 car, 3 person
+1 car, 2 person
 1 person
 4 car
 5 car
 5 car
 5 car
-1 car, 3 person
+1 car, 2 person
 1 person
-1 car, 3 person
+1 car, 2 person
 5 car
 4 car
 8 person
 1 person
-1 car, 3 person
+1 car, 2 person
 5 car
 1 person
 1 person
@@ -215,11 +215,11 @@
 4 car
 4 car
 1 person
-1 car, 3 person
+1 car, 2 person
 5 car
 5 car
 4 car
-1 car, 3 person
+1 car, 2 person
 1 person
 4 car
 5 car
@@ -229,10 +229,10 @@
 8 person
 8 person
 4 car
-1 car, 4 person
+1 car, 2 person
 8 person
-1 car, 4 person
-1 car, 4 person
+1 car, 2 person
+1 car, 2 person
 5 car
 1 person
 5 car
@@ -247,7 +247,7 @@
 5 car
 5 car
 4 car
-1 car, 3 person
+1 car, 2 person
 1 person
 5 car
 4 car
@@ -268,13 +268,13 @@
 5 car
 4 car
 1 person
-1 car, 3 person
+1 car, 2 person
 4 car
-1 car, 3 person
+1 car, 2 person
 8 person
 1 person
 5 car
-1 car, 3 person
+1 car, 2 person
 1 person
 4 car
 1 car, 3 person
@@ -299,10 +299,10 @@
 8 person
 1 person
 1 person
-1 car, 3 person
+1 car, 2 person
 5 car
 8 person
-1 car, 4 person
+1 car, 2 person
 5 car
 8 person
 4 car
@@ -321,7 +321,7 @@
 5 car
 4 car
 8 person
-1 car, 3 person
+1 car, 2 person
 4 car
 1 person
 1 car, 3 person
@@ -329,10 +329,10 @@
 8 person
 5 car
 5 car
-1 car, 3 person
+1 car, 2 person
 1 person
 8 person
-1 car, 4 person
+1 car, 2 person
 1 person
 1 person
 8 person
@@ -359,19 +359,19 @@
 5 car
 4 car
 4 car
-1 car, 3 person
+1 car, 2 person
 8 person
 1 person
 5 car
 8 person
-1 car, 3 person
+1 car, 2 person
 8 person
 5 car
 5 car
 4 car
 5 car
 5 car
-1 car, 4 person
+1 car, 2 person
 4 car
 1 person
 8 person
@@ -380,7 +380,7 @@
 1 person
 4 car
 5 car
-1 car, 3 person
+1 car, 2 person
 5 car
 1 person
 8 person
@@ -395,7 +395,7 @@
 1 person
 5 car
 4 car
-1 car, 3 person
+1 car, 2 person
 5 car
 4 car
 4 car
@@ -420,17 +420,17 @@
 5 car
 8 person
 4 car
-1 car, 3 person
+1 car, 2 person
 1 person
 8 person
 1 person
 8 person
-1 car, 3 person
-1 car, 3 person
+1 car, 2 person
+1 car, 2 person
 4 car
 8 person
 8 person
-1 car, 4 person
+1 car, 2 person
 5 car
 1 person
 4 car
@@ -500,10 +500,10 @@
 8 person
 1 car, 3 person
 8 person
-1 car, 4 person
+1 car, 2 person
 5 car
 1 person
-1 car, 3 person
+1 car, 2 person
 5 car
 5 car
 1 person
@@ -529,7 +529,7 @@
 5 car
 1 car, 3 person
 5 car
-1 car, 3 person
+1 car, 2 person
 1 person
 1 person
 4 car
@@ -554,8 +554,8 @@
 8 person
 5 car
 5 car
-1 car, 4 person
-1 car, 4 person
+1 car, 2 person
+1 car, 2 person
 5 car
 4 car
 1 car, 3 person
@@ -567,7 +567,7 @@
 4 car
 8 person
 4 car
-1 car, 3 person
+1 car, 2 person
 5 car
 1 person
 4 car
@@ -602,12 +602,12 @@
 1 person
 4 car
 4 car
-1 car, 3 person
-1 car, 3 person
+1 car, 2 person
+1 car, 2 person
 5 car
-1 car, 3 person
+1 car, 2 person
 4 car
-1 car, 3 person
+1 car, 2 person
 8 person
 8 person
 4 car
@@ -632,7 +632,7 @@
 8 person
 5 car
 4 car
-1 car, 3 person
+1 car, 2 person
 1 person
 4 car
 8 person
@@ -642,11 +642,11 @@
 5 car
 4 car
 1 person
-1 car, 4 person
+1 car, 1 person
 8 person
-1 car, 4 person
+1 car, 1 person
 1 person
-1 car, 4 person
+1 car, 2 person
 8 person
 8 person
 4 car
@@ -664,15 +664,15 @@
 8 person
 1 person
 4 car
-1 car, 3 person
-1 car, 3 person
+1 car, 2 person
+1 car, 2 person
 8 person
 4 car
 5 car
 1 person
 4 car
 4 car
-1 car, 3 person
+1 car, 2 person
 4 car
 5 car
 8 person
@@ -687,16 +687,16 @@
 4 car
 8 person
 1 person
-1 car, 3 person
+1 car, 2 person
 1 person
 5 car
-1 car, 3 person
-1 car, 3 person
+1 car, 2 person
+1 car, 2 person
 4 car
 4 car
 8 person
 4 car
-1 car, 3 person
+1 car, 2 person
 1 person
 4 car
 5 car
@@ -719,7 +719,7 @@
 1 person
 4 car
 1 person
-1 car, 3 person
+1 car, 2 person
 1 person
 1 person
 5 car
@@ -767,9 +767,9 @@
 4 car
 4 car
 4 car
-1 car, 3 person
+1 car, 2 person
 8 person
-1 car, 3 person
+1 car, 2 person
 5 car
 8 person
 1 person
@@ -778,10 +778,10 @@
 1 person
 1 person
 4 car
-1 car, 4 person
+1 car, 2 person
 5 car
 4 car
-1 car, 3 person
+1 car, 2 person
 1 person
 8 person
 8 person
@@ -910,18 +910,18 @@
 1 person
 5 car
 1 person
-1 car, 3 person
+1 car, 1 person
 1 person
-1 car, 3 person
+1 car, 2 person
 5 car
 8 person
 1 person
 1 person
-1 car, 4 person
+1 car, 1 person
 1 person
 8 person
 8 person
-1 car, 3 person
+1 car, 2 person
 5 car
 4 car
 1 person
@@ -937,13 +937,13 @@
 8 person
 1 person
 8 person
-1 car, 3 person
+1 car, 2 person
 1 person
 8 person
 8 person
 1 person
 8 person
-1 car, 3 person
+1 car, 2 person
 1 person
 8 person
 1 person
@@ -971,7 +971,7 @@
 5 car
 8 person
 8 person
-1 car, 3 person
+1 car, 2 person
 1 person
 5 car
 1 car, 3 person
@@ -980,8 +980,8 @@
 1 car, 3 person
 8 person
 1 person
-1 car, 3 person
-1 car, 3 person
+1 car, 2 person
+1 car, 2 person
 4 car
 1 person
 8 person

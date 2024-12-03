@@ -28,7 +28,7 @@ def fun(qual,model):
             frame_number += 1
             
             # Execute o modelo YOLO no frame atual
-            results = model(frame)
+            results = model(frame, conf=0.65)
 
             # Extraia as caixas de detecção
             detections = results[0].boxes
@@ -60,7 +60,7 @@ def fun(qual,model):
     cap.release()
 
 
-models = ["models/yolo11s.pt","models/yolo11n.pt","models/yolo11l.pt","models/yolo11m.pt"]
+models = ["models/yolov8n.pt","models/yolov8m.pt","models/yolo11n.pt","models/yolo11s.pt","models/yolo11m.pt"]
 quals = [144,360,720,1080]
 
 for m in models:
