@@ -22,6 +22,8 @@ def up(out):
 
 qualities = [144,360,720]
 
+qualities = [90]
+
 for e in qualities:
     up(e)
 

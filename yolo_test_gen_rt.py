@@ -67,7 +67,7 @@ def rl_fun(m,q):
             processing_time = time.time() - start_time
 
             # Update the sum of time taken
-            sum_time_took += processing_time
+            sum_time_took += max(0,processing_time - (1/fps))
             
             # After catching up (if needed), write the result for the current frame
             f.write(detection_str + '\n')
@@ -96,7 +96,7 @@ def rl_fun(m,q):
 
 models = ["models/yolov8n.pt","models/yolov8m.pt","models/yolo11n.pt","models/yolo11s.pt","models/yolo11m.pt"]
 quals = [144,360,720,1080]
-
+quals = [90]
 for m in models:
     for q in quals:
         rl_fun(m,q)
