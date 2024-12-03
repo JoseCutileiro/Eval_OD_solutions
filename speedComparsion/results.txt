@@ -1,0 +1,99 @@
+==== models/yolo11s.ptvid144.mkv ====
+
+Total objects detected in 893 frames: 9685
+Total runtime: 13.84 seconds
+
+==== models/yolo11s.ptvid360.mkv ====
+
+Total objects detected in 893 frames: 12806
+Total runtime: 12.93 seconds
+
+==== models/yolo11s.ptvid720.mkv ====
+
+Total objects detected in 893 frames: 14784
+Total runtime: 15.70 seconds
+
+==== models/yolo11s.ptvid1080.mkv ====
+
+Total objects detected in 890 frames: 18045
+Total runtime: 19.08 seconds
+
+==== models/yolo11n.ptvid144.mkv ====
+
+Total objects detected in 893 frames: 8297
+Total runtime: 13.73 seconds
+
+==== models/yolo11n.ptvid360.mkv ====
+
+Total objects detected in 893 frames: 8134
+Total runtime: 13.79 seconds
+
+==== models/yolo11n.ptvid720.mkv ====
+
+Total objects detected in 893 frames: 8742
+Total runtime: 15.75 seconds
+
+==== models/yolo11n.ptvid1080.mkv ====
+
+Total objects detected in 890 frames: 8903
+Total runtime: 18.11 seconds
+
+==== models/yolo11x.ptvid144.mkv ====
+
+Total objects detected in 893 frames: 5479
+Total runtime: 61.55 seconds
+
+==== models/yolo11x.ptvid360.mkv ====
+
+Total objects detected in 893 frames: 8048
+Total runtime: 62.73 seconds
+
+==== models/yolo11x.ptvid720.mkv ====
+
+Total objects detected in 893 frames: 10839
+Total runtime: 65.36 seconds
+
+==== models/yolo11x.ptvid1080.mkv ====
+
+Total objects detected in 890 frames: 11539
+Total runtime: 69.68 seconds
+
+==== yolov8n.ptvid144.mkv ====
+
+Total objects detected in 893 frames: 13237
+Total runtime: 13.67 seconds
+
+==== yolov8n.ptvid360.mkv ====
+
+Total objects detected in 893 frames: 17339
+Total runtime: 13.46 seconds
+
+==== yolov8n.ptvid720.mkv ====
+
+Total objects detected in 893 frames: 18161
+Total runtime: 16.37 seconds
+
+==== yolov8n.ptvid1080.mkv ====
+
+Total objects detected in 890 frames: 18374
+Total runtime: 18.39 seconds
+
+==== yolov8x.ptvid144.mkv ====
+
+Total objects detected in 893 frames: 9938
+Total runtime: 63.55 seconds
+
+==== yolov8x.ptvid360.mkv ====
+
+Total objects detected in 893 frames: 11829
+Total runtime: 65.99 seconds
+
+==== yolov8x.ptvid720.mkv ====
+
+Total objects detected in 893 frames: 14199
+Total runtime: 69.73 seconds
+
+==== yolov8x.ptvid1080.mkv ====
+
+Total objects detected in 890 frames: 18797
+Total runtime: 74.14 seconds

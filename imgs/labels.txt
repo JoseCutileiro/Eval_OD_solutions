@@ -1,0 +1,5 @@
+8 person
+4 car
+5 car
+1 person
+3 person 1 car
