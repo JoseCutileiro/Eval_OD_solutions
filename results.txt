@@ -97,4 +97,3 @@ Total runtime: 69.73 seconds
 
 Total objects detected in 890 frames: 18797
 Total runtime: 74.14 seconds
-
